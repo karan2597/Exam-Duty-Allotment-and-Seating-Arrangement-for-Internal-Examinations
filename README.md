@@ -13,7 +13,7 @@ The initial page to start with is **start.php**. This page will contain three se
   
     - **Faculty Alloment:**  The admin can view the necessary details of the faculties that are assigned for different slots along with the date and time of examinations. At the below, a **generate report** option is given that will show the no of duties assigned to the faculties for a period of 3 days (6 slots).
     
-    - **2nd Year Time Table ** and **3rd Year Time Table** -> This section consists of input given, which consists of all the subjects along with other details.
+    - **2nd Year Time Table and 3rd Year Time Table** -> This section consists of input given, which consists of all the subjects along with other details.
     
   
   
